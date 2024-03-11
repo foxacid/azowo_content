@@ -1,0 +1,19 @@
+#############
+## GIT STUFF
+#############
+
+# Gitignore
+# ---------------
+.gitignore
+
+# Readme
+# ---------------
+README.md
+
+#############
+## DEPLOYHQ STUFF
+#############
+
+# Deployignore
+# ---------------
+.deployignore

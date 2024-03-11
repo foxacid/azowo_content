@@ -1,0 +1,17 @@
+# System files
+# ------------
+
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+
+# Lock Files
+# ---------------
+.lock
+
+# Hidden files
+# ---------------
+*Thumbs.db
+*~imageoptim*
