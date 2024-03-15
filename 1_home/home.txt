@@ -2,4 +2,45 @@ Title: Home
 
 ----
 
-hero: - 231030_zoom_car.jpg
+Cards:
+
+- 
+  link: ""
+  image:
+    - file://koMQtLCiKO23XVF4
+  heading: CO2 Emission
+  text: ""
+- 
+  link: ""
+  image:
+    - file://koMQtLCiKO23XVF4
+  heading: Substitution Diesel in EV
+  text: ""
+- 
+  link: ""
+  image:
+    - file://koMQtLCiKO23XVF4
+  heading: Reifenmanagement Kosten
+  text: ""
+- 
+  link: ""
+  image:
+    - file://koMQtLCiKO23XVF4
+  heading: Auswertung Schadenmanagement
+  text: ""
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Hero: - 231030_zoom_car.jpg
+
+----
+
+Uuid: Q7ILXdZE8s1AddWs
