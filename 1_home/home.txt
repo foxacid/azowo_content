@@ -2,4 +2,45 @@ Title: Home
 
 ----
 
-hero: - 231030_zoom_car.jpg
+Cards:
+
+- 
+  link: ""
+  image:
+    - file://XItY2FTUMtW2hzFq
+  heading: Bike
+  text: ""
+- 
+  link: ""
+  image:
+    - file://koMQtLCiKO23XVF4
+  heading: Quad
+  text: ""
+- 
+  link: ""
+  image:
+    - file://XItY2FTUMtW2hzFq
+  heading: Superbike
+  text: ""
+- 
+  link: ""
+  image:
+    - file://koMQtLCiKO23XVF4
+  heading: Trike
+  text: ""
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Hero: - 231030_zoom_car.jpg
+
+----
+
+Uuid: 5HKa86EkjG9bQhiN
