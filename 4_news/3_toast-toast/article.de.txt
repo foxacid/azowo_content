@@ -1,4 +1,4 @@
-Title: Pump Pump
+Title: Toast Toast
 
 ----
 
@@ -14,7 +14,11 @@ Blocks:
 
 ----
 
-Cover: - file://PVrQKabiU9Ovoldm
+Cover: - file://EcP35raHvW8Zz1tq
+
+----
+
+Tags: Event
 
 ----
 
@@ -26,4 +30,4 @@ Seodescription:
 
 ----
 
-Uuid: LB8vs9UGAl6YVDhc
+Uuid: f39uRIXtLmP9IZ8h
