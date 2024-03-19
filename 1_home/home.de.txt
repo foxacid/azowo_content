@@ -1,33 +1,129 @@
 Title: Home
+ 
+----
+
+Hero: - 231030_zoom_car.jpg
+
+----
+
+Faq:
+
+heading: FAQ
+items:
+  - 
+    heading: >
+      Was sind die Kosten und
+      Zahlungsoptionen?
+    text: >
+      Die Kosten und Zahlungsoptionen
+      variieren je nach den spezifischen
+      Anforderungen Ihres Unternehmens und der
+      gewählten Funktionalitäten unserer
+      Mobility SaaS-Lösung. Wir bieten
+      flexible Abonnementmodelle, die es Ihnen
+      ermöglichen, die für Sie passende
+      Option auszuwählen. Kontaktieren Sie
+      uns gerne für ein maßgeschneidertes
+      Angebot.
+  - 
+    heading: >
+      Wie funktioniert die Integration in
+      bestehende Systeme?
+    text: >
+      Die Kosten und Zahlungsoptionen
+      variieren je nach den spezifischen
+      Anforderungen Ihres Unternehmens und der
+      gewählten Funktionalitäten unserer
+      Mobility SaaS-Lösung. Wir bieten
+      flexible Abonnementmodelle, die es Ihnen
+      ermöglichen, die für Sie passende
+      Option auszuwählen. Kontaktieren Sie
+      uns gerne für ein maßgeschneidertes
+      Angebot.
+  - 
+    heading: >
+      Wie schnell ist die Implementierung und
+      Schulung?
+    text: >
+      Die Kosten und Zahlungsoptionen
+      variieren je nach den spezifischen
+      Anforderungen Ihres Unternehmens und der
+      gewählten Funktionalitäten unserer
+      Mobility SaaS-Lösung. Wir bieten
+      flexible Abonnementmodelle, die es Ihnen
+      ermöglichen, die für Sie passende
+      Option auszuwählen. Kontaktieren Sie
+      uns gerne für ein maßgeschneidertes
+      Angebot.
+  - 
+    heading: Whatever
+    text: ""
+theme: dark
+intro: ""
+
 
 ----
 
 Cards:
 
-- 
-  link: ""
-  image:
-    - file://XItY2FTUMtW2hzFq
-  heading: CO2 Emission
-  text: ""
-- 
-  link: ""
-  image:
-    - file://koMQtLCiKO23XVF4
-  heading: Substitution Diesel in EV
-  text: ""
-- 
-  link: ""
-  image:
-    - file://XItY2FTUMtW2hzFq
-  heading: Reifenmanagement Kosten
-  text: ""
-- 
-  link: ""
-  image:
-    - file://koMQtLCiKO23XVF4
-  heading: Auswertung Schadenmanagement
-  text: ""
+heading: Reports
+intro: 'Headline zum Thema schnell und unkompliziert Reports & Statistiken erhalten.'
+items:
+  -
+   link: ""
+   image:
+     - file://XItY2FTUMtW2hzFq
+   heading: CO2 Emission
+   text: ""
+ - 
+   link: ""
+   image:
+     - file://koMQtLCiKO23XVF4
+   heading: Substitution Diesel in EV
+   text: ""
+ - 
+   link: ""
+   image:
+     - file://XItY2FTUMtW2hzFq
+   heading: Reifenmanagement Kosten
+   text: ""
+ - 
+   link: ""
+   image:
+     - file://koMQtLCiKO23XVF4
+   heading: Auswertung Schadenmanagement
+   text: ""
+
+----
+
+Story:
+
+items:
+  - 
+    image:
+      - file://XItY2FTUMtW2hzFq
+    topline: Transparent
+    heading: Alles Digital
+    text: >
+      aliquip ex ea commodo consequat. Duis
+      aute irure dolor in reprehenderit in
+      voluptate velit esse cillum dolore eu
+      fugiat nulla pariatur. Excepteur sint
+      occaecat cupidatat
+    link: page://Nd6o3k1FRxb4XLxZ
+  - 
+    image:
+      - file://XItY2FTUMtW2hzFq
+    topline: Opaque
+    heading: Alles Digital
+    text: >
+      aliquip ex ea commodo consequat. Duis
+      aute irure dolor in reprehenderit in
+      voluptate velit esse cillum dolore eu
+      fugiat nulla pariatur. Excepteur sint
+      occaecat cupidatat
+    link: page://Nd6o3k1FRxb4XLxZ
+storytheme: shade
 
 ----
 
@@ -36,10 +132,6 @@ Seotitle:
 ----
 
 Seodescription: 
-
-----
-
-Hero: - 231030_zoom_car.jpg
 
 ----
 
