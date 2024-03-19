@@ -25,7 +25,7 @@ intro: >
   Vertrieb. Wir freuen uns darauf, von
   Ihnen zu hören und gemeinsam die
   Zukunft zu gestalten.
-theme: shade
+theme: navy
 
 ----
 
@@ -79,9 +79,9 @@ items:
       uns gerne für ein maßgeschneidertes
       Angebot.
   - 
-    heading: Whatever
+    heading: No text, no expansion
     text: ""
-theme: ""
+theme: night
 intro: ""
 
 ----
@@ -127,11 +127,15 @@ items:
     topline: Transparent
     heading: Alles Digital
     text: >
-      aliquip ex ea commodo consequat. Duis
-      aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu
-      fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat
+      Digitales Verwalten, Disponieren,
+      Steuern und Überwachen der
+      Fahrzeugflotten, um effektiv und
+      rentabel arbeiten zu können. Die
+      KI-basierte Anwendung bietet immanent
+      die Reallokation der vorhandenen
+      Ressourcen und ermöglicht allen
+      Mitarbeitern eine zeit­ und
+      kosteneffektive Nutzung.
     link: page://Nd6o3k1FRxb4XLxZ
   - 
     image:
@@ -139,14 +143,30 @@ items:
     topline: Opaque
     heading: Alles Digital
     text: >
-      aliquip ex ea commodo consequat. Duis
-      aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu
-      fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat
+      Digitales Verwalten, Disponieren,
+      Steuern und Überwachen der
+      Fahrzeugflotten, um effektiv und
+      rentabel arbeiten zu können. Die
+      KI-basierte Anwendung bietet immanent
+      die Reallokation der vorhandenen
+      Ressourcen und ermöglicht allen
+      Mitarbeitern eine zeit­ und
+      kosteneffektive Nutzung.
     link: page://Nd6o3k1FRxb4XLxZ
-theme: ""
+theme: light
 storytheme: shade
+
+----
+
+Focus:
+
+heading: Neue Wege
+text: >
+  Alle Anpassungen werden in unserer
+  übersichtlichen App reflektiert für
+  eine weitere Analyse.
+image: [ ]
+theme: night
 
 ----
 
