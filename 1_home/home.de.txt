@@ -170,6 +170,44 @@ theme: night
 
 ----
 
+Facts:
+
+heading: Fakten
+text: >
+  Wir bieten attraktive Chancen in
+  verschiedenen Bereichen, von Entwicklung
+  und Technik
+items:
+  - 
+    heading: Vitamins
+    text: >
+      Vitaminwater products could promote
+      healthy joints and reduce the risk of
+      eye disease.
+  - 
+    heading: Frosted
+    text: "Frosted Mini Wheats improved children's attentiveness by 20%."
+  - 
+    heading: Balance
+    text: >
+      The athletic shoe maker said its toning
+      shoe could help wearers burn calories.
+theme: light
+
+----
+
+Video:
+
+heading: >
+  Anwendung der Mobility Cloud bei
+  Liebherr
+poster: [ ]
+url: >
+  https://www.youtube.com/watch?v=ehdNptlzvBY
+theme: shade
+
+----
+
 Seotitle: 
 
 ----
