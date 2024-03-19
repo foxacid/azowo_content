@@ -1,8 +1,31 @@
 Title: Home
- 
+
 ----
 
-Hero: - 231030_zoom_car.jpg
+Articles:
+
+heading: Neues aus der Mobility Cloud
+articles:
+  - page://P1zj9pYjhJUqllda
+  - page://TgIPnKUofNiNs6Ul
+  - page://f39uRIXtLmP9IZ8h
+  - page://LB8vs9UGAl6YVDhc
+  - page://1qPror3fS3wAkRxS
+theme: ""
+
+----
+
+Jobs:
+
+heading: Stellen
+intro: >
+  Wir bieten attraktive Chancen in
+  verschiedenen Bereichen, von Entwicklung
+  und Technik bis hin zu Marketing und
+  Vertrieb. Wir freuen uns darauf, von
+  Ihnen zu hören und gemeinsam die
+  Zukunft zu gestalten.
+theme: shade
 
 ----
 
@@ -58,9 +81,8 @@ items:
   - 
     heading: Whatever
     text: ""
-theme: dark
+theme: ""
 intro: ""
-
 
 ----
 
@@ -69,30 +91,30 @@ Cards:
 heading: Reports
 intro: 'Headline zum Thema schnell und unkompliziert Reports & Statistiken erhalten.'
 items:
-  -
-   link: ""
-   image:
-     - file://XItY2FTUMtW2hzFq
-   heading: CO2 Emission
-   text: ""
- - 
-   link: ""
-   image:
-     - file://koMQtLCiKO23XVF4
-   heading: Substitution Diesel in EV
-   text: ""
- - 
-   link: ""
-   image:
-     - file://XItY2FTUMtW2hzFq
-   heading: Reifenmanagement Kosten
-   text: ""
- - 
-   link: ""
-   image:
-     - file://koMQtLCiKO23XVF4
-   heading: Auswertung Schadenmanagement
-   text: ""
+  - 
+    link: ""
+    image:
+      - file://XItY2FTUMtW2hzFq
+    heading: CO2 Emission
+    text: ""
+  - 
+    link: ""
+    image:
+      - file://koMQtLCiKO23XVF4
+    heading: Substitution Diesel in EV
+    text: ""
+  - 
+    link: ""
+    image:
+      - file://XItY2FTUMtW2hzFq
+    heading: Reifenmanagement Kosten
+    text: ""
+  - 
+    link: ""
+    image:
+      - file://koMQtLCiKO23XVF4
+    heading: Auswertung Schadenmanagement
+    text: ""
 
 ----
 
@@ -123,6 +145,7 @@ items:
       fugiat nulla pariatur. Excepteur sint
       occaecat cupidatat
     link: page://Nd6o3k1FRxb4XLxZ
+theme: ""
 storytheme: shade
 
 ----
@@ -132,6 +155,22 @@ Seotitle:
 ----
 
 Seodescription: 
+
+----
+
+Articles-featured:
+
+pages:
+  - page://TgIPnKUofNiNs6Ul
+  - page://1qPror3fS3wAkRxS
+  - page://f39uRIXtLmP9IZ8h
+  - page://LB8vs9UGAl6YVDhc
+  - page://P1zj9pYjhJUqllda
+theme: ""
+
+----
+
+Hero: - 231030_zoom_car.jpg
 
 ----
 
