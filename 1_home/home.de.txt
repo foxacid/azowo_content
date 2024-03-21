@@ -208,6 +208,33 @@ theme: shade
 
 ----
 
+Kpi:
+
+items:
+  - 
+    name: Produktivität
+    value: '75%'
+    description: >
+      Erhöhung der Produktivität dank neuer
+      Prozesse im letzten Monat
+  - 
+    name: Einsparung
+    value: €100k
+    description: >
+      Gesamteinsparungen durch
+      Effizienzmaßnahmen im letzten Quartal.
+    text: ""
+  - 
+    name: Funktionen
+    value: "78"
+    description: >
+      Anzahl der neuen Produktfunktionen, die
+      im letzten Jahr eingeführt wurden.
+heading: null
+intro: ""
+
+----
+
 Seotitle: 
 
 ----
